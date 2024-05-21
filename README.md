@@ -1,5 +1,4 @@
-# Ayush Prajapati Banking System
-Sparks Foundation Internship Project : Basic Banking System  
+# Saurav Nautiyal : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
